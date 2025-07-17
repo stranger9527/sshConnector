@@ -7,7 +7,6 @@ import re
 import openpyxl
 from datetime import datetime, timedelta
 
-
 class SSHClientApp:
     def __init__(self, root):
         self.root = root
